@@ -52,8 +52,8 @@
 
 ###  *10.What are the advantages of using curl over the browser?*
 
-      Ability to manage HTTP requests /Responses in a repeatable, programmatic way
-      Ability to quickly HTTP HTTP requests in a way that can be automated
+     Ability to manage HTTP requests /Responses in a repeatable, programmatic way
+     Ability to quickly HTTP HTTP requests in a way that can be automated
      Allows ability to make adjustments as the security professional work
      Ability to support numerous protocol even if a UI is not present
 
@@ -82,7 +82,7 @@
 
 ###  *15.Which response header sends a cookie to the client?*
 
-      HTTP/1.1 200 OK
+     HTTP/1.1 200 OK
      Content-type: text/html
      Set-Cookie: cart=Bob
      Set-cookie is set to cart=bob
